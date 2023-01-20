@@ -1,2 +1,1 @@
-- 👋 Hi, this is @fjmsouza: 
-A Electronics Engineer in continuing education seeking skills in Robotics, Embedded Systems, IoT, Computational Vision, Deep Learning, and more.
+Hi, let's seek skills in Robotics, Embedded Systems, IoT, Computational Vision, Deep Learning, and more?
